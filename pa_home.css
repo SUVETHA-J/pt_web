@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin:0;
+}
+.pa_body{
+background-color: white;
+color:yellow;
+}
+.first_div{
+    background-color:rgb(24, 24, 109);
+height: 80px;}
+.peerTutor{
+    color:white;
+    
+    position:absolute;
+    top:4%;
+    left:4%;
+font-size:20px;
+font-weight: bold;   
+}
+.extra{
+    color:yellow;
+    font-size: 20px;
+}
+.logo{
+float: left;
+text-align: center;}
+
+.ata{
+    background-color: yellow;
+    color:rgb(24, 24, 109);
+    font-size:17px;
+    padding:10px 20px;
+    margin-top: 20px;
+    margin-right: 45px;
+    border-radius: 10px;
+    border:solid 3px white;
+    font-weight: bold;  
+}
+.att{  border:solid 3px yellow;
+    background-color:white;
+    color:rgb(24, 24, 109);
+    font-size:17px;
+    padding:10px 20px;
+    margin-top: 20px;
+    margin-right: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.inline li{
+    
+    float: right;
+}
+.att:hover, .ata:hover{cursor: pointer;
+background-color: black;
+color:white}
+.navbar_ul{
+    list-style: none;
+}
