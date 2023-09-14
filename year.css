@@ -1,0 +1,125 @@
+*{
+    padding:0;
+    margin:0;
+}
+.pa_body{
+background-color: white;
+color:yellow;
+}
+.first_div{
+    background-color:rgb(24, 24, 109);
+height: 80px;}
+.peerTutor{
+    color:white;
+    position:absolute;
+    top:4%;
+    left:4%;
+font-size:20px;
+font-weight: bold;   
+}
+.extra{
+    color:yellow;
+    font-size: 20px;
+}
+.logo{
+float: left;
+text-align: center;}
+.icon1{
+    color:yellow;
+    padding:10px 20px;
+    margin-top: 20px;
+    margin-right: 45px;
+    border-radius: 10px;
+    border:solid 3px white;
+    }
+.icon2{
+    color:white;
+    padding:10px 20px;
+    margin-top: 20px;
+    margin-right: 45px;
+    border-radius: 10px;
+    border:solid 3px yellow;
+  
+}
+.inline li{
+    
+    float: right;
+}
+.icon1:hover{
+    cursor: pointer;
+        background-color:white;
+        color:rgb(24, 24, 109);
+        border:solid 3px yellow; 
+        
+}
+.icon2:hover{cursor: pointer;
+background-color:yellow;
+color:rgb(24, 24, 109);
+border:solid 3px white; }
+.navbar_ul{
+    list-style: none;
+}
+
+.it{
+    font-weight: bold;
+    font-size: 20px;
+  
+}
+.yr{
+width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.yrg1{
+    display: flex;
+flex-flow:row wrap;
+gap:30px; 
+justify-content: center;
+align-items: center;
+
+}
+.grids{font-weight: bold;
+    font-size: 20px;
+    height:200px;
+    width:120px;
+    margin-top:6rem;
+    margin-left:6rem;
+    display: block;
+    text-align: center;
+    padding:0 3rem;
+    background-color: rgb(24, 24, 109);
+    color:white;
+    position: relative;
+}
+.lfy{
+    top:40%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.btny{
+    top:70%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.extralist{
+    list-style:none;
+}
+.select1{
+    text-decoration: none;
+    color:black;
+    padding:4rem 2rem;
+    font-weight: bold;
+    font-size:14px;
+}
+.btny{
+padding:10px;
+border-radius: 15px;
+background-color: yellow;
+}
+.btny:hover{
+    background-color: white;
+}
